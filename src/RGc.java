@@ -9,9 +9,12 @@ public class RGc {
         c = a + b;
         int d;
         d = a * b;
+        int e;
+        e = a / b
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
         System.out.println(d);
+        System out println(e);
     }
 }
